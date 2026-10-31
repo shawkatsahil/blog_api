@@ -1,7 +1,7 @@
 # Blog API
 
 A REST API for a blog, built with Django and Django REST Framework.
-Users can register, log in with JWT, write posts, and comment on posts.
+Users can log in with JWT, write posts, and comment on posts.
 
 ## Features
 - JWT authentication (login, access and refresh tokens)
@@ -49,9 +49,7 @@ Authorization: Bearer <your access token>
 ```
 
 ## Screenshots
-![Login](screenshots/login.png)
-![Create post](screenshots/create-post.png)
-![Search](screenshots/search.png)
+![Create post](screenshots/create_api.png)
 
 ## Run it on your computer
 ```
